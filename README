@@ -1,5 +1,12 @@
 Front end web development in Rust (Udemy) course source code with Tailwind css.
 
+Install dev environment requirements:0
+
+rustup target add wasm32-unknown-unknown
+cargo install --locked trunk
+
+Building:-
+
 Generate tailwind.css with tailwindcss -i input.css -o tailwind.css
 
 Build with trunk serve

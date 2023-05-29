@@ -1,0 +1,5 @@
+Front end web development in Rust (Udemy) course source code with Tailwind css.
+
+Generate tailwind.css with tailwindcss -i input.css -o tailwind.css
+
+Build with trunk serve
